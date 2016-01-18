@@ -1,0 +1,401 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"da",
+				"dash.js-master"
+			],
+			[
+				"bear-640",
+				"bear-640x360-av_frag.mp4"
+			],
+			[
+				"bear-",
+				"bear-640x360.webm"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"r",
+				"room"
+			],
+			[
+				"TV",
+				"TVSE3D_y"
+			],
+			[
+				"S",
+				"START_Y"
+			],
+			[
+				"trans",
+				"translate"
+			],
+			[
+				"transl",
+				"translate"
+			],
+			[
+				"T",
+				"TVSE3D_y"
+			],
+			[
+				"set",
+				"setSize"
+			],
+			[
+				"rota",
+				"rotation"
+			],
+			[
+				"ro",
+				"rotate"
+			],
+			[
+				"rotate",
+				"rotate3d"
+			],
+			[
+				"me",
+				"message_pack"
+			],
+			[
+				"y",
+				"y"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Z/chromium_src_20150312/src/media/media_cdm.gypi",
+		"/Z/chromium_src_20150312/src/media/media.gyp",
+		"/Z/chromium_src_20150312/src/media/media_cdm_adapter.gyp",
+		"/Z/chromium_src_20150312/src/media/media_nacl.gyp",
+		"/Z/chromium_src_20150312/src/media/shared_memory_support.gypi",
+		"/Z/chromium_src_20150312/src/media/blink/media_blink.gyp",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/anguang/router/wizard.htm",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/anguang/video_full_bug_page_change/index.htm",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/anguang/showfocus/showfocus.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mse/eme_player_js/test_config.js",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mse/eme_player_js/utils.js",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/anguang/index.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/funny/index.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/audio/test.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/audio-m3u8.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/video_demo_m3u8.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/index.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/getpos/getpos.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/hammerjs/visual.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/hammerjs/three.js.cube.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/hammerjs/three.js.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/hammerjs/imatlight.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/video/video_demo.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/webviewtest/index.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mse/eme_player_js/app_loader.js",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mse/media_source_player.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mse/index.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/anguang/video_full_bug_page_change/index_files/util.js",
+		"/J/字幕组/[FTR字幕组]小猪专访/[FTR字幕组]小猪专访.txt.dump",
+		"/J/字幕组/[FTR字幕组]小猪专访/[FTR字幕组]小猪专访.txt",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/anguang/video_full_bug_page/index.htm",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/anguang/router_nobutton/wizard.htm",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/anguang/detail_noplayer/UT_EPG_mainframe.htm",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/anguang/detail_noplayer/UT_EPG_mainframe_files/vod_detail.htm",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/anguang/video_full_bug_page_change/index_files/1.css",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/anguang/favourite_noplayer/UT_EPG_mainframe.htm",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/anguang/favourite_noplayer/UT_EPG_mainframe_files/vod_favorites.htm",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/anguang/search_noplayer/UT_EPG_mainframe.htm",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/anguang/search_noplayer/UT_EPG_mainframe_files/vod_search.htm",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/anguang/detail_nomediaplayer/UT_EPG_mainframe.htm",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/anguang/detail_nomediaplayer/UT_EPG_mainframe_files/vod_detail.htm",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/anguang/search/UT_EPG_mainframe.htm",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/anguang/search/UT_EPG_mainframe_files/vod_search.htm",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/car/Car.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/car/Car_files/js15.js",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/car/Car_files/cars.min.js",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/car/Car_files/analytics.js",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/imatlight/imatlight.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/change_src.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/imatlight/Three.js",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/imatlight/js/controls/OrbitControls.js",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/GetKeyTest/getirkeytest.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/getpos/shared.js",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/getpos/spatialized-sample.js",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/hammerjs/Hammer.JS - Hammer.js_files/index.js",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/hammer.js/tests/manual/visual.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/hammerjs/Hammer.JS - Hammer.js.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/imatlight/hammer.min.js",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/tv/js/mynotifysocket.js",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/tv/js/videodetail.js",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/tv/js/websocket.js",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/tv/video_detail.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/haixing/recommend.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/haixing/影视分类.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/getpos/ga.js",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/imatlight.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/getpos.html",
+		"/C/Users/min/Desktop/webGL3dl/imatlight.html",
+		"/C/Users/min/Desktop/webGL3dl/Three.js",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/test/Spatialized audio in 2D   Web Audio API-1.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/haixing/websocket.html",
+		"/C/Users/min/Desktop/Spatialized audio in 2D   Web Audio API.html",
+		"/C/Users/min/Desktop/Spatialized audio in 2D   Web Audio API-1.html",
+		"/E/MMT/北京声学所交流2015.1.23/PPT/change_src.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/m3u8/HTML5 Video.html",
+		"/C/Users/min/Desktop/audio-m3u8.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/funny/Creative Link Effects/Creative Link Effects.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/funny/animated-hamberger-icons/style.css",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/funny/animated-hamberger-icons/animate.js",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/funny/animated-hamberger-icons/example.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/funny/animated-hamberger-icons/A Pen by Captain Anonymous_files/prefixfree.min.js",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mobile/tvdetail/tvdetail.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/funny/animated-hamberger-icons/A Pen by Captain Anonymous_files/index.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/funny/animated-hamberger-icons/A Pen by Captain Anonymous.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/mobile/index.html",
+		"/E/MMT/url_request/url_request_ftp_job_unittest.cc",
+		"/E/MMT/url_request/url_request_http_job.h",
+		"/E/MMT/url_request/url_request_mmt_job.h",
+		"/E/MMT/url_request/url_request_ftp_job.h",
+		"/E/MMT/url_request/url_request_http_job.cc",
+		"/E/MMT/url_request/url_request_mmt_job.cc",
+		"/E/MMT/url_request/url_request_ftp_job.cc",
+		"/E/MMT/url_request/url_request_http_job_unittest.cc",
+		"/E/MMT/url_request/url_request_mmt_job_unittest.cc",
+		"/X/hd1/xiaowm/HiSTBAndroidV400R001C00SPC050B012/external/TVSE/TVSEWebviewApk/assets/launcher/index-tvsejs.html",
+		"/X/hd1/xiaowm/HiSTBAndroidV400R001C00SPC050B012/external/TVSE/TVSEWebviewApk/assets/launcher/index.html",
+		"/Z/crosswalk_src_android_20150429/src/xwalk/xwalk_core_library_android.gypi",
+		"/Z/crosswalk_src_android_20150429/src/xwalk/xwalk_android_tests.gypi",
+		"/Z/crosswalk_src_android_20150429/src/xwalk/xwalk_android_app.gypi",
+		"/Z/crosswalk_src_android_20150429/src/xwalk/xwalk_android.gypi",
+		"/Z/crosswalk_src_android_20150429/src/xwalk/gyp_xwalk",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/index.html",
+		"/X/hd1/xiaowm/HiSTBAndroidV400R001C00SPC050B012/external/TVSE/TVSEWebviewApk/assets/launcher/index-tvsejs-android4.0.html",
+		"/D/Program Files (x86)/Apache Software Foundation/Apache2.2/htdocs/useragent.html",
+		"/H/字幕组/20150418切尔西1-0曼联/20150418_Chelsea1-0ManUtd.txt",
+		"/Y/HiSTBLinuxV100R002C00SPC060/sample/ezwebkit-75891/build/Hisiv200/config.h",
+		"/Y/HiSTBLinuxV100R002C00SPC060/sample/ezwebkit-75891/build/Hisiv200/Makefile",
+		"/Y/HiSTBLinuxV100R002C00SPC060/sample/ezwebkit-75891/Android.mk"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"audio_param",
+			"assert",
+			"querySelectorAll",
+			"Dash.di.DashContext()",
+			"showImage",
+			"showMenu",
+			"load",
+			"Image1",
+			"delete_favorite",
+			"dialogue_div",
+			"show_dialogue",
+			"showfocus",
+			"body",
+			"output",
+			"setfocus",
+			"util",
+			"focus",
+			"change_step",
+			"wzNext",
+			"wizard next",
+			"set",
+			"getnativeplayerinstanceid",
+			"set",
+			"getNativePlayerInstanceID",
+			"$id",
+			"move_char_div",
+			"mouseover",
+			"mediaplayer",
+			"ngb",
+			"style",
+			"obj_page_data",
+			"show_dialogue",
+			"showfocus",
+			"mediaplayer",
+			"$id",
+			"getNativePlayerInstanceID",
+			"5",
+			"Light",
+			"cube",
+			"reqanimationframe",
+			"animate",
+			"el",
+			"log",
+			"el",
+			"hit",
+			"log",
+			"=\"",
+			"src",
+			"1024",
+			"changeEvent",
+			"scene",
+			"camera",
+			"perspectivecamera",
+			"changeEvent",
+			"change",
+			"=\"",
+			"Ftp",
+			"ftp",
+			"Ftp",
+			"FTP",
+			"Ftp",
+			"ftp",
+			"http",
+			"getkey",
+			"key",
+			"xwalk_",
+			"xwalk_runtime_lib",
+			"xwalk",
+			"onkey",
+			"onkeyup",
+			"onkeydown",
+			"onkeyup",
+			"onkeydown",
+			"index",
+			"getkey",
+			"index",
+			"guanli",
+			"focus",
+			"shoueye_dl",
+			"dl4",
+			"\\t",
+			"SUPPORT_INTELLIX"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Mmt",
+			"mmt",
+			"Mmt",
+			"MMT",
+			"Mmt",
+			"mmt",
+			"\\n\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
